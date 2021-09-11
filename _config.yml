@@ -1,29 +1,23 @@
-#Update all the sections by editing the data.yml file inside _data folder.
 
-# Site Settings
-title: Biagio Brattoli Resume
-url: '' #'http://webjeda.com'
-baseurl: '' #change it according to your repository name
-# Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: blue # blue turquoise green berry orange ceramic
-chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
+title: My Resume
+url: 'http://junlulocky.com'
+baseurl: '/PanelCV' #change it according to your repository name
 
-# Tracker
-analytics: UA-98375828-1 #UA-83979019-1
 
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-# Build settings
-encoding: "utf-8"
-compress_html: # - http://jch.penibelst.de/
-  clippings: all
-  ignore:
-    envs: development
+# Profile information
+yourname: Brown Smith  ## put your name
+title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
+location: San Francisco , CA
 
-# Development Settings
-port: 4000
-host: 0.0.0.0
-safe: false
+
+## Social Profiles
+facebook: http://www.facebook.com  ## your facebook account url
+twitter: http://www.twitter.com  ## your twitter account url
+linkedin: http://www.linkedin.com  ## your linkedin account url
+dribbble: http://www.dribble.com  ## you dribbble account url
+foursquare: http://www.foursquare.com  ## your foursquare account url
+
+
+
+# Update all the sections by editing the files inside _includes folder.
